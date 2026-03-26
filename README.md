@@ -31,7 +31,6 @@
 ![Blender](https://img.shields.io/badge/blender-F5792A?style=for-the-badge&logo=blender&logoColor=white) 
 ![Photoshop](https://img.shields.io/badge/adobe%20photoshop-31A8FF?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) 
 
 ---
 
@@ -50,9 +49,4 @@
 - 🏥 **Hospital Management System (Java Swing MVC)** – Desktop app with role-based system
 - 🌐 **Web Projects (React, PHP, MySQL)**
 
----
 
-### 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nguyenhip28&show_icons=true&theme=tokyonight" />
-</p>
